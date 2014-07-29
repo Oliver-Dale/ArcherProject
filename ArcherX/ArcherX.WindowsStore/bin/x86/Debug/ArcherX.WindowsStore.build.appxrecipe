@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SNATCH</Machine>
+    <WindowsUser>cotillion</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>4a410f4a-c4bd-49c9-b20c-754a86c7f5f8</PackageIdentityName>
+    <IntermediateOutputPath>E:\Projects\ArcherX\ArcherX.WindowsStore\obj\x86\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Projects\ArcherX\ArcherX.WindowsStore\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Projects\ArcherX\ArcherX.WindowsStore\bin\x86\Debug\ArcherX.WindowsStore.exe">
+      <PackagePath>ArcherX.WindowsStore.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\ArcherX\ArcherX.Core\bin\Debug\ArcherX.Core.dll">
+      <PackagePath>ArcherX.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\ArcherX\packages\MvvmCross.HotTuna.CrossCore.3.1.1\lib\netcore45\Cirrious.CrossCore.dll">
+      <PackagePath>Cirrious.CrossCore.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\ArcherX\packages\MvvmCross.HotTuna.CrossCore.3.1.1\lib\netcore45\Cirrious.CrossCore.WindowsStore.dll">
+      <PackagePath>Cirrious.CrossCore.WindowsStore.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\ArcherX\packages\MvvmCross.HotTuna.MvvmCrossLibraries.3.1.1\lib\netcore45\Cirrious.MvvmCross.dll">
+      <PackagePath>Cirrious.MvvmCross.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\ArcherX\packages\MvvmCross.HotTuna.CrossCore.3.1.1\lib\netcore45\Cirrious.MvvmCross.Localization.dll">
+      <PackagePath>Cirrious.MvvmCross.Localization.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\ArcherX\packages\MvvmCross.HotTuna.Plugin.Messenger.3.1.1\lib\netcore45\Cirrious.MvvmCross.Plugins.Messenger.dll">
+      <PackagePath>Cirrious.MvvmCross.Plugins.Messenger.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\ArcherX\packages\MvvmCross.HotTuna.MvvmCrossLibraries.3.1.1\lib\netcore45\Cirrious.MvvmCross.WindowsStore.dll">
+      <PackagePath>Cirrious.MvvmCross.WindowsStore.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\ArcherX\ArcherX.WindowsStore\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\ArcherX\ArcherX.WindowsStore\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\ArcherX\ArcherX.WindowsStore\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\ArcherX\ArcherX.WindowsStore\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\ArcherX\ArcherX.WindowsStore\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\ArcherX\ArcherX.WindowsStore\bin\x86\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\ArcherX\ArcherX.WindowsStore\bin\x86\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\ArcherX\ArcherX.WindowsStore\bin\x86\Debug\Views\FirstView.xaml">
+      <PackagePath>Views\FirstView.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\ArcherX\ArcherX.WindowsStore\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

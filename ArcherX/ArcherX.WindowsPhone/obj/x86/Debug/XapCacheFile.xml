@@ -1,0 +1,16 @@
+﻿<xapCache source="E:\Projects\ArcherX\ArcherX.WindowsPhone\Bin\x86\Debug\ArcherX.WindowsPhone._Debug_x86.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="29/07/2014 23:35:28">
+  <file source="E:\Projects\ArcherX\ArcherX.WindowsPhone\obj\x86\Debug\ArcherX.WindowsPhone.dll" archivePath="ArcherX.WindowsPhone.dll" lastWriteTime="29/07/2014 23:35:27" />
+  <file source="E:\Projects\ArcherX\ArcherX.WindowsPhone\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="29/07/2014 23:33:24" />
+  <file source="E:\Projects\ArcherX\ArcherX.WindowsPhone\Bin\x86\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="29/07/2014 23:35:28" />
+  <file source="E:\Projects\ArcherX\ArcherX.WindowsPhone\Bin\x86\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="29/07/2014 23:33:24" />
+  <file source="E:\Projects\ArcherX\ArcherX.WindowsPhone\Bin\x86\Debug\Background.png" archivePath="Background.png" lastWriteTime="29/07/2014 23:33:24" />
+  <file source="E:\Projects\ArcherX\ArcherX.Core\bin\Debug\ArcherX.Core.dll" archivePath="ArcherX.Core.dll" lastWriteTime="29/07/2014 23:35:25" />
+  <file source="E:\Projects\ArcherX\packages\MvvmCross.HotTuna.CrossCore.3.1.1\lib\wp8\Cirrious.CrossCore.dll" archivePath="Cirrious.CrossCore.dll" lastWriteTime="29/07/2014 23:34:47" />
+  <file source="E:\Projects\ArcherX\packages\MvvmCross.HotTuna.CrossCore.3.1.1\lib\wp8\Cirrious.CrossCore.WindowsPhone.dll" archivePath="Cirrious.CrossCore.WindowsPhone.dll" lastWriteTime="29/07/2014 23:34:47" />
+  <file source="E:\Projects\ArcherX\packages\MvvmCross.HotTuna.MvvmCrossLibraries.3.1.1\lib\wp8\Cirrious.MvvmCross.dll" archivePath="Cirrious.MvvmCross.dll" lastWriteTime="29/07/2014 23:34:47" />
+  <file source="E:\Projects\ArcherX\packages\MvvmCross.HotTuna.CrossCore.3.1.1\lib\wp8\Cirrious.MvvmCross.Localization.dll" archivePath="Cirrious.MvvmCross.Localization.dll" lastWriteTime="29/07/2014 23:34:47" />
+  <file source="E:\Projects\ArcherX\packages\MvvmCross.HotTuna.Plugin.Messenger.3.1.1\lib\wp8\Cirrious.MvvmCross.Plugins.Messenger.dll" archivePath="Cirrious.MvvmCross.Plugins.Messenger.dll" lastWriteTime="29/07/2014 23:34:52" />
+  <file source="E:\Projects\ArcherX\packages\MvvmCross.HotTuna.MvvmCrossLibraries.3.1.1\lib\wp8\Cirrious.MvvmCross.WindowsPhone.dll" archivePath="Cirrious.MvvmCross.WindowsPhone.dll" lastWriteTime="29/07/2014 23:34:47" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\System.Windows.Interactivity.dll" archivePath="System.Windows.Interactivity.dll" lastWriteTime="25/09/2012 01:41:02" />
+  <file source="E:\Projects\ArcherX\ArcherX.WindowsPhone\Bin\x86\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="29/07/2014 23:35:28" />
+</xapCache>

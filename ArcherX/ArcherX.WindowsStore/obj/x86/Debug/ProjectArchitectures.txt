@@ -1,0 +1,2 @@
+E:\Projects\ArcherX\ArcherX.Core\ArcherX.Core.csproj;neutral
+E:\Projects\ArcherX\ArcherX.WindowsStore\ArcherX.WindowsStore.csproj;x86
