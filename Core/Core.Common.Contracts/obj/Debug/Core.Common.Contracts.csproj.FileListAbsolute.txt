@@ -1,0 +1,19 @@
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\Core\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\Core\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\Core\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\Core\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\Core\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\Core\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\Core\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.csprojResolveAssemblyReference.cache
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\Core\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\Core\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.pdb
+C:\Projects\building-multi-client-end-to-end-service-oriented-applications-Complete\m15-exercise-files\Source\Core\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.dll
+C:\Projects\building-multi-client-end-to-end-service-oriented-applications-Complete\m15-exercise-files\Source\Core\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.pdb
+C:\Projects\building-multi-client-end-to-end-service-oriented-applications-Complete\m15-exercise-files\Source\Core\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.csprojResolveAssemblyReference.cache
+C:\Projects\building-multi-client-end-to-end-service-oriented-applications-Complete\m15-exercise-files\Source\Core\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.dll
+C:\Projects\building-multi-client-end-to-end-service-oriented-applications-Complete\m15-exercise-files\Source\Core\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.pdb
+E:\Projects\MCastro_EndToEnd_15\m15-exercise-files\Source\Core\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.dll
+E:\Projects\MCastro_EndToEnd_15\m15-exercise-files\Source\Core\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.pdb
+E:\Projects\MCastro_EndToEnd_15\m15-exercise-files\Source\Core\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.csprojResolveAssemblyReference.cache
+E:\Projects\MCastro_EndToEnd_15\m15-exercise-files\Source\Core\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.dll
+E:\Projects\MCastro_EndToEnd_15\m15-exercise-files\Source\Core\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.pdb

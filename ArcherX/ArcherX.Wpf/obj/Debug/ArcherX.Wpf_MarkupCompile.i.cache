@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-E:\Projects\ArcherX\ArcherX.Wpf\obj\Debug\
+E:\Projects\ArcherProject\ArcherX\ArcherX.Wpf\obj\Debug\
 ArcherX.Wpf
 none
 false
 DEBUG;TRACE
-E:\Projects\ArcherX\ArcherX.Wpf\App.xaml
+E:\Projects\ArcherProject\ArcherX\ArcherX.Wpf\App.xaml
 2-855503890
 
-10-650393097
-14-355095074
+10-694942383
+14-658010008
 MainWindow.xaml;Views\FirstView.xaml;
 
-True
+False
 

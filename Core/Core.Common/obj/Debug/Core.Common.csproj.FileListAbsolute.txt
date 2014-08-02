@@ -1,0 +1,115 @@
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\Core\Core.Common\bin\Debug\Core.Common.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\Core\Core.Common\bin\Debug\Core.Common.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\Core\Core.Common\bin\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\Core\Core.Common\bin\Debug\Core.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\Core\Core.Common\obj\Debug\Core.Common.csprojResolveAssemblyReference.cache
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\Core\Core.Common\obj\Debug\Core.Common.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\Core\Core.Common\obj\Debug\Core.Common.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\Core\Core.Common\bin\Debug\Core.Common.dll.config
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\Core\Core.Common\bin\Debug\EntityFramework.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\Core\Core.Common\bin\Debug\EntityFramework.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\Core\Core.Common\bin\Debug\FluentValidation.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\Core\Core.Common\bin\Debug\FluentValidation.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\Core\Core.Common\bin\Debug\FluentValidation.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\Core\Core.Common\bin\Debug\de\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\Core\Core.Common\bin\Debug\es\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\Core\Core.Common\bin\Debug\fr\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\Core\Core.Common\bin\Debug\it\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\Core\Core.Common\bin\Debug\nl\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\Core\Core.Common\bin\Debug\pl\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\Core\Core.Common\bin\Debug\pt\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\Core\Core.Common\bin\Debug\ru\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\Core\Core.Common\bin\Debug\sv\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\Core\Core.Common\bin\Debug\tr\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\Core.Common.dll.config
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\Core.Common.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\Core.Common.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\EntityFramework.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\FluentValidation.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\Core.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\EntityFramework.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\FluentValidation.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\FluentValidation.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\de\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\es\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\fr\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\it\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\nl\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\pl\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\pt\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\ru\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\sv\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\tr\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\Core\Core.Common\obj\Debug\Core.Common.csprojResolveAssemblyReference.cache
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\Core\Core.Common\obj\Debug\Core.Common.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m2-car-rental-system-demo\demos\Source\Core\Core.Common\obj\Debug\Core.Common.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\Core.Common.dll.config
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\Core.Common.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\Core.Common.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\Core.Common.Contracts.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\EntityFramework.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\FluentValidation.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\Core.Common.Contracts.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\EntityFramework.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\FluentValidation.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\FluentValidation.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\de\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\es\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\fr\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\it\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\nl\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\pl\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\pt\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\ru\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\sv\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\Core\Core.Common\bin\Debug\tr\FluentValidation.resources.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\Core\Core.Common\obj\Debug\Core.Common.csprojResolveAssemblyReference.cache
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\Core\Core.Common\obj\Debug\Core.Common.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\Core\Core.Common\obj\Debug\Core.Common.pdb
+C:\Projects\building-multi-client-end-to-end-service-oriented-applications-Complete\m15-exercise-files\Source\Core\Core.Common\bin\Debug\Core.Common.dll.config
+C:\Projects\building-multi-client-end-to-end-service-oriented-applications-Complete\m15-exercise-files\Source\Core\Core.Common\bin\Debug\Core.Common.dll
+C:\Projects\building-multi-client-end-to-end-service-oriented-applications-Complete\m15-exercise-files\Source\Core\Core.Common\bin\Debug\Core.Common.pdb
+C:\Projects\building-multi-client-end-to-end-service-oriented-applications-Complete\m15-exercise-files\Source\Core\Core.Common\bin\Debug\Core.Common.Contracts.dll
+C:\Projects\building-multi-client-end-to-end-service-oriented-applications-Complete\m15-exercise-files\Source\Core\Core.Common\bin\Debug\EntityFramework.dll
+C:\Projects\building-multi-client-end-to-end-service-oriented-applications-Complete\m15-exercise-files\Source\Core\Core.Common\bin\Debug\FluentValidation.dll
+C:\Projects\building-multi-client-end-to-end-service-oriented-applications-Complete\m15-exercise-files\Source\Core\Core.Common\bin\Debug\Core.Common.Contracts.pdb
+C:\Projects\building-multi-client-end-to-end-service-oriented-applications-Complete\m15-exercise-files\Source\Core\Core.Common\bin\Debug\EntityFramework.xml
+C:\Projects\building-multi-client-end-to-end-service-oriented-applications-Complete\m15-exercise-files\Source\Core\Core.Common\bin\Debug\FluentValidation.pdb
+C:\Projects\building-multi-client-end-to-end-service-oriented-applications-Complete\m15-exercise-files\Source\Core\Core.Common\bin\Debug\FluentValidation.xml
+C:\Projects\building-multi-client-end-to-end-service-oriented-applications-Complete\m15-exercise-files\Source\Core\Core.Common\bin\Debug\de\FluentValidation.resources.dll
+C:\Projects\building-multi-client-end-to-end-service-oriented-applications-Complete\m15-exercise-files\Source\Core\Core.Common\bin\Debug\es\FluentValidation.resources.dll
+C:\Projects\building-multi-client-end-to-end-service-oriented-applications-Complete\m15-exercise-files\Source\Core\Core.Common\bin\Debug\fr\FluentValidation.resources.dll
+C:\Projects\building-multi-client-end-to-end-service-oriented-applications-Complete\m15-exercise-files\Source\Core\Core.Common\bin\Debug\it\FluentValidation.resources.dll
+C:\Projects\building-multi-client-end-to-end-service-oriented-applications-Complete\m15-exercise-files\Source\Core\Core.Common\bin\Debug\nl\FluentValidation.resources.dll
+C:\Projects\building-multi-client-end-to-end-service-oriented-applications-Complete\m15-exercise-files\Source\Core\Core.Common\bin\Debug\pl\FluentValidation.resources.dll
+C:\Projects\building-multi-client-end-to-end-service-oriented-applications-Complete\m15-exercise-files\Source\Core\Core.Common\bin\Debug\pt\FluentValidation.resources.dll
+C:\Projects\building-multi-client-end-to-end-service-oriented-applications-Complete\m15-exercise-files\Source\Core\Core.Common\bin\Debug\ru\FluentValidation.resources.dll
+C:\Projects\building-multi-client-end-to-end-service-oriented-applications-Complete\m15-exercise-files\Source\Core\Core.Common\bin\Debug\sv\FluentValidation.resources.dll
+C:\Projects\building-multi-client-end-to-end-service-oriented-applications-Complete\m15-exercise-files\Source\Core\Core.Common\bin\Debug\tr\FluentValidation.resources.dll
+C:\Projects\building-multi-client-end-to-end-service-oriented-applications-Complete\m15-exercise-files\Source\Core\Core.Common\obj\Debug\Core.Common.csprojResolveAssemblyReference.cache
+C:\Projects\building-multi-client-end-to-end-service-oriented-applications-Complete\m15-exercise-files\Source\Core\Core.Common\obj\Debug\Core.Common.dll
+C:\Projects\building-multi-client-end-to-end-service-oriented-applications-Complete\m15-exercise-files\Source\Core\Core.Common\obj\Debug\Core.Common.pdb
+E:\Projects\MCastro_EndToEnd_15\m15-exercise-files\Source\Core\Core.Common\bin\Debug\Core.Common.dll.config
+E:\Projects\MCastro_EndToEnd_15\m15-exercise-files\Source\Core\Core.Common\bin\Debug\Core.Common.dll
+E:\Projects\MCastro_EndToEnd_15\m15-exercise-files\Source\Core\Core.Common\bin\Debug\Core.Common.pdb
+E:\Projects\MCastro_EndToEnd_15\m15-exercise-files\Source\Core\Core.Common\bin\Debug\Core.Common.Contracts.dll
+E:\Projects\MCastro_EndToEnd_15\m15-exercise-files\Source\Core\Core.Common\bin\Debug\EntityFramework.dll
+E:\Projects\MCastro_EndToEnd_15\m15-exercise-files\Source\Core\Core.Common\bin\Debug\FluentValidation.dll
+E:\Projects\MCastro_EndToEnd_15\m15-exercise-files\Source\Core\Core.Common\bin\Debug\Core.Common.Contracts.pdb
+E:\Projects\MCastro_EndToEnd_15\m15-exercise-files\Source\Core\Core.Common\bin\Debug\EntityFramework.xml
+E:\Projects\MCastro_EndToEnd_15\m15-exercise-files\Source\Core\Core.Common\bin\Debug\FluentValidation.pdb
+E:\Projects\MCastro_EndToEnd_15\m15-exercise-files\Source\Core\Core.Common\bin\Debug\FluentValidation.xml
+E:\Projects\MCastro_EndToEnd_15\m15-exercise-files\Source\Core\Core.Common\bin\Debug\de\FluentValidation.resources.dll
+E:\Projects\MCastro_EndToEnd_15\m15-exercise-files\Source\Core\Core.Common\bin\Debug\es\FluentValidation.resources.dll
+E:\Projects\MCastro_EndToEnd_15\m15-exercise-files\Source\Core\Core.Common\bin\Debug\fr\FluentValidation.resources.dll
+E:\Projects\MCastro_EndToEnd_15\m15-exercise-files\Source\Core\Core.Common\bin\Debug\it\FluentValidation.resources.dll
+E:\Projects\MCastro_EndToEnd_15\m15-exercise-files\Source\Core\Core.Common\bin\Debug\nl\FluentValidation.resources.dll
+E:\Projects\MCastro_EndToEnd_15\m15-exercise-files\Source\Core\Core.Common\bin\Debug\pl\FluentValidation.resources.dll
+E:\Projects\MCastro_EndToEnd_15\m15-exercise-files\Source\Core\Core.Common\bin\Debug\pt\FluentValidation.resources.dll
+E:\Projects\MCastro_EndToEnd_15\m15-exercise-files\Source\Core\Core.Common\bin\Debug\ru\FluentValidation.resources.dll
+E:\Projects\MCastro_EndToEnd_15\m15-exercise-files\Source\Core\Core.Common\bin\Debug\sv\FluentValidation.resources.dll
+E:\Projects\MCastro_EndToEnd_15\m15-exercise-files\Source\Core\Core.Common\bin\Debug\tr\FluentValidation.resources.dll
+E:\Projects\MCastro_EndToEnd_15\m15-exercise-files\Source\Core\Core.Common\obj\Debug\Core.Common.csprojResolveAssemblyReference.cache
+E:\Projects\MCastro_EndToEnd_15\m15-exercise-files\Source\Core\Core.Common\obj\Debug\Core.Common.dll
+E:\Projects\MCastro_EndToEnd_15\m15-exercise-files\Source\Core\Core.Common\obj\Debug\Core.Common.pdb

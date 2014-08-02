@@ -7,3 +7,12 @@ E:\Projects\ArcherX\ArcherX.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
 E:\Projects\ArcherX\ArcherX.Core\bin\Debug\Cirrious.MvvmCross.Plugins.Messenger.dll
 E:\Projects\ArcherX\ArcherX.Core\obj\Debug\ArcherX.Core.dll
 E:\Projects\ArcherX\ArcherX.Core\obj\Debug\ArcherX.Core.pdb
+E:\Projects\ArcherProject\ArcherX\ArcherX.Core\bin\Debug\ArcherX.Core.dll
+E:\Projects\ArcherProject\ArcherX\ArcherX.Core\bin\Debug\ArcherX.Core.pdb
+E:\Projects\ArcherProject\ArcherX\ArcherX.Core\bin\Debug\Cirrious.CrossCore.dll
+E:\Projects\ArcherProject\ArcherX\ArcherX.Core\bin\Debug\Cirrious.MvvmCross.dll
+E:\Projects\ArcherProject\ArcherX\ArcherX.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
+E:\Projects\ArcherProject\ArcherX\ArcherX.Core\bin\Debug\Cirrious.MvvmCross.Plugins.Messenger.dll
+E:\Projects\ArcherProject\ArcherX\ArcherX.Core\obj\Debug\ArcherX.Core.csprojResolveAssemblyReference.cache
+E:\Projects\ArcherProject\ArcherX\ArcherX.Core\obj\Debug\ArcherX.Core.dll
+E:\Projects\ArcherProject\ArcherX\ArcherX.Core\obj\Debug\ArcherX.Core.pdb

@@ -32,3 +32,6 @@ E:\Projects\ArcherX\ArcherX.Wpf\obj\Debug\Views\FirstView.baml
 E:\Projects\ArcherX\ArcherX.Wpf\obj\Debug\ArcherX.Wpf.g.resources
 E:\Projects\ArcherX\ArcherX.Wpf\obj\Debug\ArcherX.Wpf.exe
 E:\Projects\ArcherX\ArcherX.Wpf\obj\Debug\ArcherX.Wpf.pdb
+E:\Projects\ArcherProject\ArcherX\ArcherX.Wpf\bin\Debug\ArcherX.Wpf.exe.config
+E:\Projects\ArcherProject\ArcherX\ArcherX.Wpf\obj\Debug\ArcherX.Wpf.exe
+E:\Projects\ArcherProject\ArcherX\ArcherX.Wpf\obj\Debug\ArcherX.Wpf.pdb
